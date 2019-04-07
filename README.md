@@ -1,6 +1,4 @@
-#Welcome to my README
-
-##Description 
+# Description 
 
 I do hope this test works and if you are viewing this then **welcome fellow GitHub(er)!** 
 
@@ -8,11 +6,11 @@ Truth be told, I am fairly novice with Git and GitHub. Practice makes perfect so
 
 I do welcome any feedback on how my involvement could further  our community!
 
-_Cheers to the journey together!_
+>_Cheers to the journey together!_
 
-'Shah' 
+**_Shah_** 
 
-### Repositories
+### [Repositories](https://github.com/unnaturalshah?tab=repositories)
 Please note majority of repositories I have or linked to is recommended by the Udacity Machine Learning Engineer nanodegree course.
 
 
