@@ -1,4 +1,4 @@
-#Description 
+##Description 
 
 I do hope this test works and if you are viewing it then Hello! 
 
@@ -6,9 +6,9 @@ Truth be told, I am fairly novice with Git and GitHub. Practice makes perfect so
 
 I do welcome any feedback on how my involvement could further  our community!
 
-_Cheers to the journey together!_*
+_Cheers to the journey together!_
 
-* 'Shah'
+* _'Shah'_ *
 
 ## Repositories
 Please note majority of repositories I have or linked to is recommended by the Udacity Machine Learning Engineer nanodegree course.
