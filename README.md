@@ -8,7 +8,7 @@ I do welcome any feedback on how my involvement could further  our community!
 
 >_Cheers to the journey together!_
 
-**_Shah_** 
+**_[Shah](https://github.com/unnaturalshah)_** 
 
 ### [Repositories](https://github.com/unnaturalshah?tab=repositories)
 Please note majority of repositories I have or linked to is recommended by the Udacity Machine Learning Engineer nanodegree course.
